@@ -1,0 +1,33 @@
+{
+  "name": "gulp-inject-template",
+  "version": "0.0.0",
+  "description": "Inject template into innerHTML",
+  "license": "MIT",
+  "repository": "vandeurenglenn/gulp-inject-template",
+  "author": {
+    "name": "Glenn Vandeuren",
+    "email": "vandeurenglenn@gmail.com",
+    "url": "github.com/vandeurenglenn"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "inject-template": "^0.1.0",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.14.0"
+  }
+}
