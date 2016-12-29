@@ -1,9 +1,9 @@
 {
-  "name": "gulp-inject-template",
+  "name": "gulp-inject-html-template",
   "version": "0.0.0",
-  "description": "Inject template into innerHTML",
+  "description": "Inject html template into innerHTML",
   "license": "MIT",
-  "repository": "vandeurenglenn/gulp-inject-template",
+  "repository": "vandeurenglenn/gulp-inject-html-template",
   "author": {
     "name": "Glenn Vandeuren",
     "email": "vandeurenglenn@gmail.com",

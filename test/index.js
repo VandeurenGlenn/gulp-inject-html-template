@@ -1,7 +1,7 @@
 import path from 'path';
 import test from 'ava';
 import gulpUtil from 'gulp-util';
-import fn from './';
+import fn from './../';
 
 test.cb(t => {
 	const stream = fn();

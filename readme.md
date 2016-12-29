@@ -1,12 +1,12 @@
-# gulp-inject-template [![Build Status](https://travis-ci.org/vandeurenglenn/gulp-inject-template.svg?branch=master)](https://travis-ci.org/vandeurenglenn/gulp-inject-template)
+# gulp-inject-html-template [![Build Status](https://travis-ci.org/vandeurenglenn/gulp-inject-html-template.svg?branch=master)](https://travis-ci.org/vandeurenglenn/gulp-inject-html-template)
 
-> Inject template into innerHTML
+> Inject html template into innerHTML
 
 
 ## Install
 
 ```
-$ npm install --save-dev gulp-inject-template
+$ npm install --save-dev gulp-inject-html-template
 ```
 
 
@@ -14,7 +14,7 @@ $ npm install --save-dev gulp-inject-template
 
 ```js
 const gulp = require('gulp');
-const injectTemplate = require('gulp-inject-template');
+const injectTemplate = require('gulp-inject-html-template');
 
 gulp.task('default', () => {
 	gulp.src('src/file.js')
