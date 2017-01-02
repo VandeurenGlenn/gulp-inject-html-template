@@ -1,6 +1,6 @@
 {
   "name": "gulp-inject-html-template",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Inject html template into innerHTML",
   "license": "MIT",
   "repository": "vandeurenglenn/gulp-inject-html-template",
@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "inject-template": "^0.1.0",
+    "inject-template": "^0.2.0",
     "through2": "^2.0.1"
   },
   "devDependencies": {
