@@ -48,6 +48,7 @@ gulp.task('default', () => {
 ## TODO
 - [ ] Add all inject-template options
 - [ ] Support template id's (&lt;template id="some-element"&gt;)
+- [ ] Add documentation for the new templatePath option
 
 ## License
 
